@@ -6,7 +6,7 @@ de um usuário, no qual retorna suas informações e seus repositórios ordenado
 O app também permite que o usuário possa detalhar os repositórios e visualizar mais informações do mesmo, 
 como por exemplo: sua descrição, linguagem, data de criação e etc.
 
-# Desafio desenvolvimento mobile Radix
+# Plus
 Como plus foram desenvolvidas algumas funcionalidades além do objetivo principal: 
 
 * Mudança de orientação de tela sem perder o estado
